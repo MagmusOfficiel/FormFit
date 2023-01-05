@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\drawable_launc_screen.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\drawable\\launc_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\drawable-xxhdpi_launc_screen.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\drawable-xxhdpi\\launc_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\drawable_launch_screen.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\drawable\\launch_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\layout_launch_screen.xml.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\drawable-xxhdpi_launch_screen.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\drawable-xxhdpi\\launch_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.moodtracker.app-merged_res-6:/drawable-xxhdpi_launc_screen.png.flat",
+        "source": "com.moodtracker.app-main-8:/drawable-xxhdpi/launc_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-merged_res-6:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Weber\\.gradle\\daemon\\7.5.1\\com.moodtracker.app-main-8:\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
